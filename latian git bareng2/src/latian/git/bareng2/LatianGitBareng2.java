@@ -19,6 +19,8 @@ public class LatianGitBareng2 {
         System.out.println("perubahan RAYYYYYY");
         
         System.out.println("halooo ini di cabang ray");
+        
+        System.out.println("Perubahan Peradaban");
     }
     
 }
